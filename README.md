@@ -1,3 +1,21 @@
+# BIOMD0000000268: Reed2008
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000268.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000268.git@20140916`
+
+
+# Model Notes
 
 
 This is the model described in the article:  
@@ -75,4 +93,5 @@ fluxes change by a factor of _cytosol_ and _mito_ for cytosolic and
 mitchondrial reactions, respectively.
 
 Originally created by libAntimony v1.3 (using libSBML 3.4.1)
+
 
